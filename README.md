@@ -62,7 +62,9 @@ Dar exemplos
  pasta do plugin
 \wp-content\plugins\desert-companion\inc\themes\softme\front\section-about.php
 ----------------------------------------------------------------------------------------------
-
+* Os quadrados que ficam flutuando na tela tem a classe
+.pattern-layer parallax-scene
+----------------------------------------------------------------------------------------------
 
 ## ✒️ Autores
 
