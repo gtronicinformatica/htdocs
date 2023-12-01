@@ -54,9 +54,14 @@ Explique que eles verificam esses testes e porquê.
 Dar exemplos
 ```
 
-## 📦 Implantação
+## 📦 Manutenção
 
 
+## FRONT PAGE
+* Para mudar as fotos e o video do youtube da página inicial, deve ser feita pelo código
+ pasta do plugin
+\wp-content\plugins\desert-companion\inc\themes\softme\front\section-about.php
+----------------------------------------------------------------------------------------------
 
 
 ## ✒️ Autores
