@@ -82,7 +82,9 @@ $selective_refresh = isset( $wp_customize->selective_refresh ) ? 'postMessage' :
 		}
 		$wp_customize->add_setting(
 			'softme_about_left_content', array(
-				'default' => '<div class="dt_image_box image-1 paroller">
+				'default' => '
+
+<div class="dt_image_box image-1 paroller">
                                 <figure class="image">
                                     <img src="'.esc_url(desert_companion_plugin_url) . '/inc/themes/softme/assets/images/resource/about-1.jpg" alt=""/>                                        
                                 </figure>
